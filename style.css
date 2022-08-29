@@ -1,0 +1,101 @@
+.main{
+    height: 800px;
+    width: 100%;
+    
+}
+.icon{
+    height: 800px;
+    width: 1%;
+  
+    
+    
+}
+.header{
+    height: 300px;
+    width: 98%;
+    background-color: silver;
+    float: right;
+    margin-top:-800px;
+}
+.middle{
+    height: 300px;
+    width: 98%;
+    background-color: white;
+    float: right;
+    margin-top:-500px;
+}
+.bottom{
+    height: 200px;
+    width: 98%;
+    background-color: skyblue;
+    float: right;
+    margin-top:-300px;
+}
+i{
+    color:black;
+    padding-top:40px;
+ 
+
+}
+.head1{
+    height: 300px;
+    width: 20%;
+    background-color: silver;
+    float: left;
+
+}
+.head2{
+    height: 300px;
+    width: 80%;
+   
+    float: left;
+
+
+}
+.head1 img{
+    height:200px;
+    width: 200px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.head2 h2{
+    padding-left:40px;
+    padding-top:10px;
+}
+.head2 p{
+    padding-left:40px;
+   line-height: 0px;
+}
+.head2 i{
+    padding-left:40px;
+    padding-top: 100px;
+   
+}
+table tr,td{
+    border:none;
+    padding-top:10px;
+}
+table{
+    padding-top: 15px;
+ 
+}
+.bott1{
+    height: 200px;
+    width: 20%;
+
+    float: left;
+
+}
+.bott2{
+    height: 200px;
+    width: 80%;
+  
+    float: left;
+
+}
+.bott1 img{
+    height:100px;
+    width: 100px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
